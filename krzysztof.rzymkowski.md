@@ -20,7 +20,7 @@ I do know the importance of clean code - I've been maintaining end expanding my 
 ### Web Frameworks
 
 Deep understanding of the underlying technologies gained with [my implementation](https://github.com/rzymek/cxxsp) (as an Apache mod) of JavaServer Pages with C++ used instead of Java.
-Having worked for a few years with the heavy weight JavaServer Faces, I've [switched my interest](https://github.com/search?l=JavaScript&q=user%3Arzymek&type=Repositories) to modern JS frameworks. Even with [JBoss Seam](http://seamframework.org/) and [Facelets](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html) I found JSF overcompicated and a real memory hog.
+Having worked for a few years with the heavy weight JavaServer Faces, I've [switched my interest](https://github.com/search?l=JavaScript&q=user%3Arzymek&type=Repositories) to modern JS frameworks. Even with [JBoss Seam](http://seamframework.org/) and [Facelets](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html) I found JSF overcomplicated and a real memory hog.
 After checking out [Angular](https://angularjs.org) and [Dart](https://www.dartlang.org/), I've chosen the full-stack [Meteor](https://www.meteor.com/) framework as my platform of [choice](http://stackoverflow.com/search?q=user%3A211205+%5Bmeteor%5D+is%3Aanswer). 
 I've used both Bootstrap 3 as well as Zurb's Foundation CSS frameworks on my side projects (just to feel the difference). I love the familar syntax of [Less](lesscss.org). 
 
