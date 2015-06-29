@@ -8,13 +8,13 @@ I am a truly passionate and versatile Developer with over 10 years experience, m
 
 I love to right clean, readable and thus maintainable code. I always ask myself whether the stuff I've just written will make sens to someone a year from now. To keep myself ahead in the game I'm closely following [Hacker News](http://news.ycombinator.com), [DailyJS](http://dailyjs.com/) and [Coding Horror](http://codinghorror.com). I'm a proponent of Open-Source and a fan of the GNU/Linux ecosystem.
 
-My personal development projects focus around modern Web technologies. I'm currently implementing a order scheduling system in [MeteorJS](https://www.meteor.com/). Lately I've written a simple webapp for sending PGP messages (running on [Parse](https://parse.com)), a [Web Map Tile Service to OSM Tiles proxy](https://github.com/rzymek/geomap) ([on AppEngine](https://geoportal-gps.appspot.com/))
+My personal development projects focus around modern Web technologies. I'm currently implementing an order scheduling system in [MeteorJS](https://www.meteor.com/). Lately I've written a simple webapp for sending PGP messages (running on [Parse](https://parse.com)), a [Web Map Tile Service to OSM Tiles proxy](https://github.com/rzymek/geomap) ([on AppEngine](https://geoportal-gps.appspot.com/))
 and a web tracking system collecting locations from Android and [dedicated GSM devices](https://www.google.com/search?q=tk+106). 
 
 ## Skills
 ### Java
-I've been using Java since version 1.1 - before Swing. I've started with JEE just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  As for the JEE servers , I've got deeply aquanted with JBoss, Websphere and lately Wildfly.
-Thanks to [Xtend](http://xtend-lang.org ) - an alternative JVM language - I've got acquainted with functional programming well before the Java 8 release.  
+I've been using Java since version 1.1 - before Swing. I've started with JEE just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  As for the JEE servers , I've got deeply acquainted with JBoss, Websphere and lately Wildfly.
+Thanks to [Xtend](http://xtend-lang.org ) - an alternative JVM language - I've became familiar with functional programming well before the Java 8 release.  
 I do know the importance of clean code - I've been maintaining end expanding my commercial side project for 8 years now. 
 
 ### Web Frameworks
