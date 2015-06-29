@@ -6,7 +6,7 @@
 ## Senior Software Developer
 I am a truly passionate and versatile Developer with over 10 years experience, mainly in the Java and Web technologies. I tend to be the go-to guy for the most difficult technical problems in the workspace. 
 
-I love to right clean, readable and thus maintainable code. I always ask myself whether the stuff I've just written will make sense to someone a year from now. To keep myself ahead in the game I'm closely following [Hacker News](http://news.ycombinator.com), [DailyJS](http://dailyjs.com/) and [Coding Horror](http://codinghorror.com). I'm a proponent of Open-Source and a fan of the GNU/Linux ecosystem.
+I love to write clean, readable and thus maintainable code. I always ask myself whether the stuff I've just written will make sense to someone a year from now. To keep myself ahead in the game I'm closely following [Hacker News](http://news.ycombinator.com), [DailyJS](http://dailyjs.com/) and [Coding Horror](http://codinghorror.com). I'm a proponent of Open-Source and a fan of the GNU/Linux ecosystem.
 
 My personal development projects focus around modern Web technologies. I'm currently implementing an order scheduling system in [MeteorJS](https://www.meteor.com/). Lately I've written a simple webapp for sending PGP messages (running on [Parse](https://parse.com)), a [Web Map Tile Service to OSM Tiles proxy](https://github.com/rzymek/geomap) ([on AppEngine](https://geoportal-gps.appspot.com/))
 and a web tracking system collecting locations from Android and [dedicated GSM devices](https://www.google.com/search?q=tk+106). 
@@ -15,14 +15,14 @@ and a web tracking system collecting locations from Android and [dedicated GSM d
 ### Java
 I've been using Java since version 1.1 - before Swing. I've started with JEE just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  As for the JEE servers , I've got deeply acquainted with JBoss, Websphere and lately Wildfly.
 Thanks to [Xtend](http://xtend-lang.org ) - an alternative JVM language - I've became familiar with functional programming well before the Java 8 release.  
-I do know the importance of clean code - I've been maintaining end expanding my commercial side project for 8 years now. 
+I do know the importance of clean code - I've been maintaining and expanding my commercial side project for 8 years now. 
 
 ### Web Frameworks
 
 Deep understanding of the underlying technologies gained with [my implementation](https://github.com/rzymek/cxxsp) (as an Apache mod) of JavaServer Pages with C++ used instead of Java.
 Having worked for a few years with the heavy weight JavaServer Faces, I've [switched my interest](https://github.com/search?l=JavaScript&q=user%3Arzymek&type=Repositories) to modern JS frameworks. Even with [JBoss Seam](http://seamframework.org/) and [Facelets](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html) I found JSF overcomplicated and a real memory hog.
 After checking out [Angular](https://angularjs.org) and [Dart](https://www.dartlang.org/), I've chosen the full-stack [Meteor](https://www.meteor.com/) framework as my platform of [choice](http://stackoverflow.com/search?q=user%3A211205+%5Bmeteor%5D+is%3Aanswer). 
-I've used both Bootstrap 3 as well as Zurb's Foundation CSS frameworks on my side projects (just to feel the difference). I love the familar syntax of [Less](lesscss.org). 
+I've used both Bootstrap 3 as well as Zurb's Foundation CSS frameworks on my side projects (just to feel the difference). I love the familiar syntax of [Less](lesscss.org). 
 
 ### Tooling
 Instinctively I strive to automate all that's possible. My tools of choice are [bash](http://stackoverflow.com/search?tab=votes&q=user%3a211205%20%5bbash%5d%20is%3aanswer), [awk](http://stackoverflow.com/search?q=user%3A211205+%5Bawk%5D+is%3Aanswer) and [Jenkins](https://jenkins-ci.org/) with which I've setup continous delivery for WebSphere and lately Wildfly.  I also mastered [maven](https://maven.apache.org/), to the point of writing plugins for code generation using [AST](http://www.vogella.com/tutorials/EclipseJDT/article.html). 
@@ -64,24 +64,24 @@ Multinational insurance corporation.
 
 ###### 2013.03 - 2013.06: Side company project. JEE+GWT on Glassfish.
 
-###### 2013.06 - now: JBoss + SWT internal all-in-one aplication
+###### 2013.06 - now: JBoss + SWT internal all-in-one application
 * Create workflow configuration tree with ~300 states -> 13k lines of SQL. Implemented simple DSL processed with AWK and Graphviz.
 * Refactored WebSphere MQ (JMS) integration (COBOL fixed length data handling).
 
 ######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
-* Implementing migration: JBoss 4.2 -> Wildfly, Subversion(svn) -> git (gitlab), Maven 2 -> 3 (+artefactory).
+* Implementing migration: JBoss 4.2 -> Wildfly, Subversion(svn) -> git (gitlab), Maven 2 -> 3 (+artifactory).
 
 #### 2006.02 - 2006.12: Kontinuum
 A small software company (3-4 devs).
 
-* Implemented server monitoring application: C backed + C# GUI frontend.
+* Implemented server monitoring application: C backend + C# GUI frontend.
 
 #### 2005.09 - 2006.02: ComputerLand
 Software corporation.
 
 * Managed build process & version control for a J2EE banking Liferay application.
 
-### Commertial side projects
+### Commercial side projects
 * Written and maintaining Java Swing frontend for PostgreSQL with ODT reports for a travel agency. (2007 - now)
 * Implementing webapp for bus fleet companies: [Meteor](https://meteor.com) framework, JavaScript with a touch of [TypeScript](http://www.typescriptlang.org/), 
 [MongoDB](https://www.mongodb.org/), Android trackers showing on embeded Google Maps (2014 - now), [Foundation](http://foundation.zurb.com/) CSS
