@@ -6,7 +6,7 @@
 ## Senior Software Developer
 I am a truly passionate and versatile Developer with over 10 years experience, mainly in the Java and Web technologies. I tend to be the go-to guy for the most difficult technical problems in the workspace. 
 
-I love to right clean, readable and thus maintainable code. I always ask myself whether the stuff I've just written will make sens to someone a year from now. To keep myself ahead in the game I'm closely following [Hacker News](http://news.ycombinator.com), [DailyJS](http://dailyjs.com/) and [Coding Horror](http://codinghorror.com). I'm a proponent of Open-Source and a fan of the GNU/Linux ecosystem.
+I love to right clean, readable and thus maintainable code. I always ask myself whether the stuff I've just written will make sense to someone a year from now. To keep myself ahead in the game I'm closely following [Hacker News](http://news.ycombinator.com), [DailyJS](http://dailyjs.com/) and [Coding Horror](http://codinghorror.com). I'm a proponent of Open-Source and a fan of the GNU/Linux ecosystem.
 
 My personal development projects focus around modern Web technologies. I'm currently implementing an order scheduling system in [MeteorJS](https://www.meteor.com/). Lately I've written a simple webapp for sending PGP messages (running on [Parse](https://parse.com)), a [Web Map Tile Service to OSM Tiles proxy](https://github.com/rzymek/geomap) ([on AppEngine](https://geoportal-gps.appspot.com/))
 and a web tracking system collecting locations from Android and [dedicated GSM devices](https://www.google.com/search?q=tk+106). 
