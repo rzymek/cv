@@ -71,7 +71,7 @@ Multinational insurance corporation.
 ######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
 * Implementing migration: JBoss 4.2 -> Wildfly, Subversion(svn) -> git (gitlab), Maven 2 -> 3 (+artefactory).
 
-#### 2006.02-2006.12: Kontinuum
+#### 2006.02 - 2006.12: Kontinuum
 A small software company (3-4 devs).
 
 * Implemented server monitoring application: C backed + C# GUI frontend.
