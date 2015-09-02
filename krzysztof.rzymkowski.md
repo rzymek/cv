@@ -45,11 +45,28 @@ Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is
 ## Work experience
 
 #### 2007 - now: Euler Hermes.
-Multinational insurance corporation. 
+Multinational insurance corporation. Maintaining two main projects.
 
-###### 2006.12 - 2008.11: JBoss JSF/Seam online site for clients. 
-* WebService & JMS integration with group system.
-* Advocated and executed CVS to Subversion(svn) switch.
+###### 2013.06 - now: JBoss + SWT internal all-in-one application
+* Create workflow configuration tree with ~300 states -> 13k lines of SQL. Implemented simple DSL processed with AWK and Graphviz.
+* Refactored WebSphere MQ (JMS) integration (COBOL fixed length data handling).
+
+######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
+
+###### 2015.03 - 2015.09: Leading role during major technology switch:
+    * Responsible for huge part of migration of 300K LOC project from JBoss 4.2 to Wildfly 8
+    * Configured & maintaining git repositories on Gitlab 
+    * Migrated all repositories from Subversion(svn) to git
+    * Automated Wildfly server configuration for all environments (dev-workstation,integration-test,uat,prod)
+    * Maven 2 -> 3 update
+    * Setup artifactory repository
+    * Configured Jenkins with 30 jobs 
+
+###### 2013.03 - 2013.06: Side company project. JEE+GWT on Glassfish.
+
+###### 2012.01 - 2013.03: Central contacts repository integration
+* Written Maven plugins for code generation (to mitigate code duplication).
+* Tested using mockito.
 
 ###### 2008.12 - 2012.11: WebSphere JSF/Seam internal system.
 * Migrated EAR (~50K LOC): JBoss 4.2 -> IBM WebSphere 7. PostgreSQL -> IBM DB2.
@@ -58,18 +75,9 @@ Multinational insurance corporation.
 * Introduced Selenium integration testing.
 * Prototyped the initial UI
 
-###### 2012.01 - 2013.03: Central contacts repository integration
-* Written Maven plugins for code generation (to mitigate code duplication).
-* Tested using mockito.
-
-###### 2013.03 - 2013.06: Side company project. JEE+GWT on Glassfish.
-
-###### 2013.06 - now: JBoss + SWT internal all-in-one application
-* Create workflow configuration tree with ~300 states -> 13k lines of SQL. Implemented simple DSL processed with AWK and Graphviz.
-* Refactored WebSphere MQ (JMS) integration (COBOL fixed length data handling).
-
-######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
-* Implementing migration: JBoss 4.2 -> Wildfly, Subversion(svn) -> git (gitlab), Maven 2 -> 3 (+artifactory).
+###### 2006.12 - 2008.11: JBoss JSF/Seam online site for clients. 
+* WebService & JMS integration with group system.
+* Advocated and executed CVS to Subversion(svn) switch.
 
 #### 2006.02 - 2006.12: Kontinuum
 A small software company (3-4 devs).
