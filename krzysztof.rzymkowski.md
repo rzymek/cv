@@ -54,13 +54,13 @@ Multinational insurance corporation. Maintaining two main projects.
 ######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
 
 ###### 2015.03 - 2015.09: Leading role during major technology switch:
-    * Responsible for huge part of migration of 300K LOC project from JBoss 4.2 to Wildfly 8
-    * Configured & maintaining git repositories on Gitlab 
-    * Migrated all repositories from Subversion(svn) to git
-    * Automated Wildfly server configuration for all environments (dev-workstation,integration-test,uat,prod)
-    * Maven 2 -> 3 update
-    * Setup artifactory repository
-    * Configured Jenkins with 30 jobs 
+* Responsible for huge part of migration of 300K LOC project from JBoss 4.2 to Wildfly 8
+* Configured & maintaining git repositories on Gitlab 
+* Migrated all repositories from Subversion(svn) to git
+* Automated Wildfly server configuration for all environments (dev-workstation,integration-test,uat,prod)
+* Maven 2 -> 3 update
+* Setup artifactory repository
+* Configured Jenkins with 30 jobs 
 
 ###### 2013.03 - 2013.06: Side company project. JEE+GWT on Glassfish.
 
