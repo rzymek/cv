@@ -98,4 +98,4 @@ Software corporation.
 
 ### Education
 Master in Computer Science. [Warsaw University of Technology](http://www.pw.edu.pl/engpw). 2005.  
-Courses & conferences: Android, Tivoli, [33rd degreee 2013](http://2013.33degree.org/), [geecon 2014](http://2014.geecon.org/) & [2015](http://2015.geecon.org/).
+Courses & conferences: Android (2014), Tibco (2012), [33rd degreee 2013](http://2013.33degree.org/), [geecon 2014](http://2014.geecon.org/) & [2015](http://2015.geecon.org/).
