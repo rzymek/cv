@@ -91,6 +91,7 @@ Software corporation.
 
 ### Commercial side projects
 * Written and maintaining Java Swing frontend for PostgreSQL with ODT reports for a travel agency. (2007 - now)
+* Maintained and developed the [Pioneer Pekao Investments](http://www.pioneer.com.pl) website. [Apache Coocon](https://cocoon.apache.org/) back by a pure XML db ([Xindice](https://xml.apache.org/xindice/)). Rewritten a JavaSE CMS for the site (Swing, XML-RPC, Java Web Start) (2005-2006)
 * Implementing webapp for bus fleet companies: [Meteor](https://meteor.com) framework, JavaScript with a touch of [TypeScript](http://www.typescriptlang.org/), 
 [MongoDB](https://www.mongodb.org/), Android trackers showing on embeded Google Maps (2014 - now), [Foundation](http://foundation.zurb.com/) CSS
 * Audio streaming over Wifi on Android using [JSpeex](http://jspeex.sourceforge.net/) codec.
