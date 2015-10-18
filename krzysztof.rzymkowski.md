@@ -32,7 +32,7 @@ As for IDEs, I've been a long time Eclipse user, just recently switching to Inte
 
 ## Open-Source Experience
 * Accepted pull requests to [meteor](https://github.com/meteor/meteor/pull/2671), [wildfly-maven-plugin](https://github.com/wildfly/wildfly-maven-plugin/pull/43) and [other projects](https://github.com/pulls?utf8=✓&q=is%3Apr+author%3Arzymek).
-* [stackoverflow 4.3K rep](http://stackoverflow.com/users/211205/rzymek). Top 20% for java; Top 30% for regex, bash, maven.
+* [stackoverflow 4300K reputation](http://stackoverflow.com/users/211205/rzymek). Top 20% for java; Top 30% for regex, bash, maven.
 * Actively maintain [a few meteor packages](https://atmospherejs.com/rzymek): [fullcalendar](https://atmospherejs.com/rzymek/fullcalendar), [momentjs locales](https://github.com/rzymek/meteor-moment/) and [pegjs](https://atmospherejs.com/rzymek/pegjs) wrappers.
 * [java2xtend](https://github.com/rzymek/java2xtend) - Java -> [Xtend](https://www.eclipse.org/xtend/) AST transform. 
 Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is%3Aclosed), [mentioned](https://plus.google.com/+Xtend-langOrg/posts/iSAtR7zbfh1) on the Eclipse Xtend G+ [page](https://plus.google.com/+Xtend-langOrg), there's a
