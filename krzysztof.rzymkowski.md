@@ -44,14 +44,14 @@ Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is
 
 ## Work experience
 
-#### 2007 - now: Euler Hermes.
+#### 2007 - 2015.12: Euler Hermes.
 Multinational insurance corporation. Maintaining two main projects.
 
-###### 2013.06 - now: JBoss + SWT internal all-in-one application
+###### 2013.06 - 2015.12: JBoss + SWT internal all-in-one application
 * Create workflow configuration tree with ~300 states -> 13k lines of SQL. Implemented simple DSL processed with AWK and Graphviz.
 * Refactored WebSphere MQ (JMS) integration (COBOL fixed length data handling).
 
-######  2014.09 - now: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
+######  2014.09 - 2015.12: [Stripes JSP](https://stripesframework.atlassian.net/wiki/display/STRIPES/Home) online site for clients. 
 
 ###### 2015.03 - 2015.09: Leading role during major technology switch:
 * Responsible for huge part of migration of 300K LOC project from JBoss 4.2 to Wildfly 8
@@ -96,6 +96,7 @@ Software corporation.
 [MongoDB](https://www.mongodb.org/), Android trackers showing on embeded Google Maps (2014 - now), [Foundation](http://foundation.zurb.com/) CSS
 * Audio streaming over Wifi on Android using [JSpeex](http://jspeex.sourceforge.net/) codec.
 * [easy encrypted messages](https://sec.parseapp.com/). [Parse](https://parse.com/), [openpgpjs](https://github.com/openpgpjs/openpgpjs/), localStorage.
+* Migration of a few Spring projects (WebServices providers & consumers) to JEE (Wildfly 9) (2016.01)
 
 ### Education
 Master in Computer Science. [Warsaw University of Technology](http://www.pw.edu.pl/engpw). 2005.  
