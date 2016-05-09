@@ -43,6 +43,8 @@ Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is
 * [mod_cxxsp](https://github.com/rzymek/cxxsp) - C++ Server Pages implementation (based of JSP). C++SP compiler was later used by [CPPSERV](https://en.wikipedia.org/wiki/CPPSERV).
 
 ## Work experience
+#### 2016.02 - present: Lingaro
+Software house. Fully implemented a Spring Boot + React aplication using ES2016 & Webpack.
 
 #### 2007 - 2015.12: Euler Hermes.
 Multinational insurance corporation. Maintaining two main projects.
