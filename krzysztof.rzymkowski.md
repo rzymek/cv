@@ -32,7 +32,7 @@ As for IDEs, I've been a long time Eclipse user, just recently switching to Inte
 
 ## Open-Source Experience
 * Accepted pull requests to [meteor](https://github.com/meteor/meteor/pull/2671), [wildfly-maven-plugin](https://github.com/wildfly/wildfly-maven-plugin/pull/43) and [other projects](https://github.com/pulls?utf8=✓&q=is%3Apr+author%3Arzymek).
-* [StackOverflow 4500K reputation](http://stackoverflow.com/users/211205/rzymek). Top 20% for java; Top 30% for regex, bash, maven.
+* [StackOverflow 5000 reputation](http://stackoverflow.com/users/211205/rzymek). Top 10% for java; Top 20% for maven; Top 30% for javascript, regex, bash
 * Actively maintain [a few meteor packages](https://atmospherejs.com/rzymek): [fullcalendar](https://atmospherejs.com/rzymek/fullcalendar), [momentjs locales](https://github.com/rzymek/meteor-moment/) and [pegjs](https://atmospherejs.com/rzymek/pegjs) wrappers.
 * [java2xtend](https://github.com/rzymek/java2xtend) - Java -> [Xtend](https://www.eclipse.org/xtend/) AST transform. 
 Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is%3Aclosed), [mentioned](https://plus.google.com/+Xtend-langOrg/posts/iSAtR7zbfh1) on the Eclipse Xtend G+ [page](https://plus.google.com/+Xtend-langOrg), there's a
@@ -44,7 +44,9 @@ Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is
 
 ## Work experience
 #### 2016.02 - present: Lingaro
-Software house. Fully implemented a Spring Boot + React aplication using ES2016 & Webpack.
+Software house. 
+* Fully implemented a Spring Boot + React + Redux aplication using ES2016 & Webpack.
+* Responsible for design, thorough code review and implementation of a standalone Spring Boot + React + Redux using Java 8 and Typescript
 
 #### 2007 - 2015.12: Euler Hermes.
 Multinational insurance corporation. Maintaining two main projects.
