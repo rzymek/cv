@@ -104,7 +104,12 @@ Software corporation.
 
 ### Education
 Master in Computer Science. [Warsaw University of Technology](http://www.pw.edu.pl/engpw). 2005.  
-Courses & conferences: Android (2014), Tibco (2012), [33rd degree 2013](http://2013.33degree.org/), [geecon 2014](http://2014.geecon.org/) & [2015](http://2015.geecon.org/).
+Courses & conferences: Android (2014), Tibco (2012), [33rd degree 2013](http://2013.33degree.org/), [geecon 2014](http://2014.geecon.org/) & [2015](http://2015.geecon.org/).   
 
 English: fluent - Cambridge English: Advanced (CAE)  
 German: communicative
+
+>I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).
+
+>Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszej ofercie pracy dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 roku o ochronie Danych Osobowych, Dz. U. Nr 133 Poz. 883).
+
