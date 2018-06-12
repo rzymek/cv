@@ -44,12 +44,15 @@ Received [contributions](https://github.com/rzymek/java2xtend/pulls?q=is%3Apr+is
 
 ## Work experience
 #### 2016.02 - present: Lingaro
-Software house. 
+Business Intelligence Services.
 
+* Designed and implemented Docker based DevOps model and migrated of several applications from WebLogic JEE
+* Introduced company wide shared libraries for security & sharepoint API integration.
+* Solving technical problems across different projects
+* Hosting biweekly internal technical workshops on topics including: git, typescript, es6, webpack, redux, etc
+* Responsible for design, thorough code review and implementation of several standalone Spring Boot + React + Redux web apps using Java 8 and Typescript
 * Fully implemented a Spring Boot + React + Redux aplication using ES2016 & Webpack.
 * iOS/Android app in Ionic 2 (Angular 2)
-* Responsible for design, thorough code review and implementation of a standalone Spring Boot + React + Redux using Java 8 and Typescript
-* Hosting biweekly internal technical workshops on topics including: git, typescript, es6, webpack, redux, etc'
 
 #### 2007 - 2015.12: Euler Hermes
 Multinational insurance corporation. Maintaining two main projects.
