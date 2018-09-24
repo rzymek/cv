@@ -22,13 +22,14 @@ I do know the importance of clean code - I've been maintaining and expanding my 
 Deep understanding of the underlying technologies gained with [my implementation](https://github.com/rzymek/cxxsp) (as an Apache mod) of JavaServer Pages with C++ used instead of Java.
 Having worked for a few years with the heavy weight JavaServer Faces, I've [switched my interest](https://github.com/search?l=JavaScript&q=user%3Arzymek&type=Repositories) to modern JS frameworks. Even with [JBoss Seam](http://seamframework.org/) and [Facelets](https://docs.oracle.com/javaee/6/tutorial/doc/giepx.html) I found JSF overcomplicated and a real memory hog.
 After checking out [Angular](https://angularjs.org) and [Dart](https://www.dartlang.org/), I've chosen the full-stack [Meteor](https://www.meteor.com/) framework as my platform of [choice](http://stackoverflow.com/search?q=user%3A211205+%5Bmeteor%5D+is%3Aanswer). 
-I've used both Bootstrap 3 as well as Zurb's Foundation CSS frameworks on my side projects (just to feel the difference). I love the familiar syntax of [Less](lesscss.org). 
+I've used both Bootstrap 3 as well as Zurb's Foundation CSS frameworks on my side projects (just to feel the difference). Then I fell in love with [React](https://reactjs.org) and it's stayed that way ever since. I've been using with with [Redux](https://redux.js.org) and [Firebase](https://firebase.google.com). 
 
 ### Tooling
-Instinctively I strive to automate all that's possible. My tools of choice are [bash](http://stackoverflow.com/search?tab=votes&q=user%3a211205%20%5bbash%5d%20is%3aanswer), [awk](http://stackoverflow.com/search?q=user%3A211205+%5Bawk%5D+is%3Aanswer) and [Jenkins](https://jenkins-ci.org/) with which I've setup continous delivery for WebSphere and lately Wildfly.  I also mastered [maven](https://maven.apache.org/), to the point of writing plugins for code generation using [AST](http://www.vogella.com/tutorials/EclipseJDT/article.html). 
+Instinctively I strive to automate all that's possible. My tools of choice are [bash](http://stackoverflow.com/search?tab=votes&q=user%3a211205%20%5bbash%5d%20is%3aanswer), [awk](http://stackoverflow.com/search?q=user%3A211205+%5Bawk%5D+is%3Aanswer) and [Jenkins](https://jenkins-ci.org/) with which I've setup continuous delivery for WebSphere and lately Wildfly.  I also mastered [maven](https://maven.apache.org/), to the point of writing plugins for code generation using [AST](http://www.vogella.com/tutorials/EclipseJDT/article.html). 
 Obviously my OS of choice is Linux (which I've been using since high school) with distributions ranging from [Linux from Scratch](http://www.linuxfromscratch.org/lfs/) through [Gentoo](https://www.gentoo.org/) to [Xubuntu](http://xubuntu.org/).   
 When it comes to our Subversion and GIT repositories, I'm the one to handle all the more advanced cases at work.
 As for IDEs, I've been a long time Eclipse user, just recently switching to Intellij Idea with a few months of Netbeans along the way.
+Lately I've gained some [Docker](https://www.docker.com/) experience and finally got a technology that has no downtime deployments out of the box.
 
 ## Open-Source Experience
 * Accepted pull requests to [meteor](https://github.com/meteor/meteor/pull/2671), [wildfly-maven-plugin](https://github.com/wildfly/wildfly-maven-plugin/pull/43) and [other projects](https://github.com/pulls?utf8=✓&q=is%3Apr+author%3Arzymek).
@@ -51,7 +52,7 @@ Business Intelligence Services.
 * Solving technical problems across different projects
 * Hosting biweekly internal technical workshops on topics including: git, typescript, es6, webpack, redux, etc
 * Responsible for design, thorough code review and implementation of several standalone Spring Boot + React + Redux web apps using Java 8 and Typescript
-* Fully implemented a Spring Boot + React + Redux aplication using ES2016 & Webpack.
+* Fully implemented a Spring Boot + React + Redux application using ES2016 & Webpack.
 * iOS/Android app in Ionic 2 (Angular 2)
 
 #### 2007 - 2015.12: Euler Hermes
