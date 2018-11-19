@@ -30,7 +30,7 @@ Lately I've got experienced with **Docker**  - finally found a technology that h
 
 ### Lingaro (3 years)
 Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
-Autonomously **architecting** and **developing web** and **mobile** applications in **Spring Boot**, **React** or **Angular 2**. Introduced **Docker** based **DevOps** for several projects.
+Autonomously **architecting** and **developing web** and **mobile** applications in **Spring Boot**, **React** or **Angular 2**. Introduced **Docker** based **DevOps** with **Prometheus** monitoring for several projects.
 Lately **tech lead** on web segment of a **strategic** data warehouse solution.
 ### Euler Hermes (9 years)
 Responsible for **design and implementation** of **web** and **integration** applications. Running on JBoss, IBM WebSphere and **Wildfly** application servers. Worked on client facing **insurance portal**, contract management **internal international system**, **JMS and webservices integration** product. Introduced and maintained **Jenkins** based **DevOps**.
