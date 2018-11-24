@@ -18,20 +18,26 @@ I am a truly **passionate** and **versatile** engineer with over 10 years of com
 
 Focused on writing **clean, readable and testable code**. I always ask myself whether the stuff I've just written will make sense to someone a year from now. 
 
-Sharing knowledge comes truly natural. I've **hosted over 30** internal **workshops** covering topics like: **docker, git, Java8, react, redux, typescript, webpack, software engineering, bash, etc**.
+Sharing knowledge comes truly natural. I've **hosted over 30** internal **workshops** covering topics like: **Docker, Java8, React, Redux, Firebase, Typescript, webpack, software engineering, git, bash**, etc.
 
 ## Skills
 I've been using **Java since version 1.1** (before Swing & Collections). I've started with **JEE** just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  
 Thanks to an alternative JVM languages I've became familiar with **functional programming** well before the Java 8 release.  
 I do know the importance of **clean code** - I've been **maintaining** and expanding my commercial side project for **10 years** now. 
-Lately I've got experienced with **Docker**  - finally found a technology that has no downtime deployments out of the box.
+Lately I've got experienced with **Docker**  - finally found a technology that has no downtime deployments out of the box. Familiar with Azure, AWS and Google **cloud** providers.
+
 
 ## Work experience 
 
 ### Lingaro (3 years)
 Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
 Autonomously **architecting** and **developing web** and **mobile** applications in **Spring Boot**, **React** or **Angular 2**. Introduced **Docker** based **DevOps** with **Prometheus** monitoring for several projects.
-Lately **tech lead** on web segment of a **strategic** data warehouse solution.
+Lately **tech lead** on web segment of a **strategic** data warehouse solution running on Azure **Cloud** services.
+
+### Przezmorze.pl (1 year)
+Side project where I'm responsible for the whole solution.
+Back office **single page app** in **React** with **Typescript** running on **Google Cloud's Firebase** PaaS. [Jest](https://jestjs.io/) for **unit tests**, [Gemini](https://gemini-testing.github.io/) for **end-to-end** regression smoke tests.
+
 ### Euler Hermes (9 years)
 Responsible for **design and implementation** of **web** and **integration** applications. Running on JBoss, IBM WebSphere and **Wildfly** application servers. Worked on client facing **insurance portal**, contract management **internal international system**, **JMS and webservices integration** product. Introduced and maintained **Jenkins** based **DevOps**.
 
