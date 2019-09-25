@@ -1,7 +1,7 @@
 # Krzysztof Rzymkowski
-![](https://material.io/tools/icons/static/icons/baseline-email-24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)  
-![](https://material.io/tools/icons/static/icons/baseline-phone_android-24px.svg) [+48 507 063 286](tel:+48507063286)  
-![](https://material.io/tools/icons/static/icons/baseline-map-24px.svg) [Poland, Warsaw (Mokotów/Sadyba)](http://goo.gl/maps/TQ5c6 )
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)  
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)  
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Mokotów/Sadyba)](http://goo.gl/maps/TQ5c6 )
 
 ### Community activity
 <!--Icons from https://iconmonstr.com/ -->
@@ -18,7 +18,7 @@ I am a truly **passionate** and **versatile** engineer with over 10 years of com
 
 Focused on writing **clean, readable and testable code**. I always ask myself whether the stuff I've just written will make sense to someone a year from now. 
 
-Sharing knowledge comes truly natural. I've **hosted over 30** internal **workshops** covering topics like: **Docker, Java8, React, Redux, Firebase, Typescript, webpack, software engineering, git, bash**, etc.
+Sharing knowledge comes truly natural. I've **hosted over 30** internal **workshops** covering topics like: **Docker, Java, React, Redux, Firebase, Typescript, webpack, software engineering, git, bash**, etc.
 
 ## Skills
 I've been using **Java since version 1.1** (before Swing & Collections). I've started with **JEE** just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  
@@ -28,6 +28,10 @@ Lately I've got experienced with **Docker**  - finally found a technology that h
 
 
 ## Work experience 
+
+### Pragmatists (current)
+
+Software house focused on providing high quality software my means of **pair programming**, **TDD** and **DDD**.  
 
 ### Lingaro (3 years)
 Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
