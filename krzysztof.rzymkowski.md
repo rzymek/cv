@@ -1,8 +1,9 @@
 # Krzysztof Rzymkowski
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)  
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)  
-![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Mokotów/Sadyba)](http://goo.gl/maps/TQ5c6 )
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Mokotów/Sadyba)](http://goo.gl/maps/TQ5c6 )  
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_page/v1/24px.svg) [CV](https://gist.github.com/rzymek/571d5a54fe5f40515488) 
+
 ### Community activity
 <!--Icons from https://iconmonstr.com/ -->
 
@@ -51,6 +52,7 @@ Responsible for **design and implementation** of **web** and **integration** app
 ### Kontinuum (10 months), ComputerLand (7 months)
 
 For further information checkout out [my LinkedIn profile](https://www.linkedin.com/in/krzysztof-rzymkowski/#experience-section).
+
 ## Education
 
 * **Master in Computer Science (mgr.inż.)**. [MINI](https://mini.pw.edu.pl/), [Politechnika Warszawska](http://www.pw.edu.pl/). 2005.  
