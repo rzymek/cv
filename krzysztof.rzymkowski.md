@@ -6,15 +6,15 @@
 ### Community activity
 <!--Icons from https://iconmonstr.com/ -->
 
-* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (over 6K)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
-* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)  
+* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (almost 8K)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
+* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)  
 * ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/)
 * ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) Speaker: [devjs meetup (PL)](https://www.facebook.com/devjspoland/videos/466201850539490/), [slides](https://slides.com/rzymek)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) LinkedIn: [posts](https://www.linkedin.com/in/krzysztof-rzymkowski/detail/recent-activity/shares/), [profile](https://www.linkedin.com/in/krzysztof-rzymkowski/), [employment history](https://www.linkedin.com/in/krzysztof-rzymkowski/#experience-section)
 
 
 ## Technology Enthusiast
-I am a truly **passionate** and **versatile** engineer with over 10 years of commercial experience. Revolving around **Web & Java** technologies mostly. Love to bite into the **difficult problems**.
+I am a truly **passionate** and **versatile** engineer with 15 years of commercial experience. Revolving around **Web & Java** technologies mostly. Love to bite into the **difficult problems**.
 
 Focused on writing **clean, readable and testable code**. I always ask myself whether the stuff I've just written will make sense to someone a year from now. 
 
@@ -24,7 +24,7 @@ Sharing knowledge comes truly natural. I've **hosted over 30** internal **worksh
 I've been using **Java since version 1.1** (before Swing & Collections). I've started with **JEE** just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  
 Thanks to an alternative JVM languages I've became familiar with **functional programming** well before the Java 8 release.  
 I do know the importance of **clean code** - I've been **maintaining** and expanding my commercial side project for **10 years** now. 
-Lately I've got experienced with **Docker**  - finally found a technology that has no downtime deployments out of the box. Familiar with Azure, AWS and Google **cloud** providers.
+Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, AWS and Google **cloud** providers.
 
 
 ## Work experience 
@@ -32,6 +32,9 @@ Lately I've got experienced with **Docker**  - finally found a technology that h
 ### Pragmatists (current)
 
 Software house focused on providing high quality software my means of **pair programming**, **TDD** and **DDD**.  
+
+1. Greenfield webapp using Spring Boot, Mongo Atlas, AWS EC2, Docker, React, Jest, Cypress. 
+2. International team working on multiservice proces modeling and testing platform. Kubernetes, Angular, Spring Boot.
 
 ### Lingaro (3 years)
 Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
