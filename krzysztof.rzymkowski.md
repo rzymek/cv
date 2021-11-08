@@ -34,8 +34,9 @@ Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, 
 
 Software house focused on providing high quality software my means of **pair programming**, **TDD** and **DDD**.  
 
-1. Greenfield webapp using Spring Boot, Mongo Atlas, AWS EC2, Docker, React, Jest, Cypress. 
-2. International team working on multiservice proces modeling and testing platform. Kubernetes, Angular, Spring Boot.
+1. Working with a internation team on distributed systems proces modeling and testing platform. **Kubernetes**, **Angular**, **Spring Boot**.
+2. Greenfield webapp using Spring Boot, **Mongo** Atlas, AWS EC2, Docker, React, Jest, **Cypress**. 
+3. Fitnes data visualization site. **AWS Beanstalk & Cloudfront**, **Nest.js**, **node.js**, React, Typescript, Circle CI.
 
 ### Lingaro (3 years)
 Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
