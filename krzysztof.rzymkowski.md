@@ -34,7 +34,7 @@ Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, 
 
 Software house focused on providing high quality software my means of **pair programming**, **TDD** and **DDD**.  
 
-1. Working with a internation team on distributed systems proces modeling and testing platform. **Kubernetes**, **Angular**, **Spring Boot**.
+1. Working with a internation team on distributed systems proces modeling (BPMN) and testing platform. **Kubernetes**, **Angular**, **Spring Boot**.
 2. Greenfield webapp using Spring Boot, **Mongo** Atlas, AWS EC2, Docker, React, Jest, **Cypress**. 
 3. Fitnes data visualization site. **AWS Beanstalk & Cloudfront**, **Nest.js**, **node.js**, React, Typescript, Circle CI.
 
