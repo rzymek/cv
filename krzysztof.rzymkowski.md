@@ -30,7 +30,12 @@ Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, 
 
 ## Work experience 
 
-### Pragmatists (current)
+### Snowflake (2022 - now)
+
+Senior Software Engineer. Tech Lead in Snowsight Data Engineer Experience domain.
+Typescript, React, Jest, RTL, Storybook, a bit of Go
+
+### Pragmatists (3 years)
 
 Software house focused on providing high quality software my means of **pair programming**, **TDD** and **DDD**.  
 
