@@ -9,8 +9,8 @@
 
 * ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (almost 8K)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 * ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)  
-* ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/)
-* ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) Speaker: [devjs meetup (PL)](https://www.facebook.com/devjspoland/videos/466201850539490/), [slides](https://slides.com/rzymek)
+* ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/), [medium.com/@rzymek](https://medium.com/@rzymek)
+* ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) Speaker: [meet.js 2024](https://www.youtube.com/watch?v=AVLFjV8vUZk), [devjs meetup (PL)](https://www.facebook.com/devjspoland/videos/466201850539490/), [slides](https://slides.com/rzymek)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) LinkedIn: [posts](https://www.linkedin.com/in/krzysztof-rzymkowski/detail/recent-activity/shares/), [profile](https://www.linkedin.com/in/krzysztof-rzymkowski/), [employment history](https://www.linkedin.com/in/krzysztof-rzymkowski/#experience-section)
 
 
