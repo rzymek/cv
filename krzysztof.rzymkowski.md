@@ -7,12 +7,13 @@
 ### Community activity
 <!--Icons from https://iconmonstr.com/ -->
 
-* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (almost 8K)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
-* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)  
+* ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) WarsawJS speaker: 
+  * [The Art of Text Parsing](https://www.youtube.com/watch?v=HawMf7QpeCs)
+  * [Anatomy of a Good Test](https://www.youtube.com/watch?v=AVLFjV8vUZk)
 * ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/), [medium.com/@rzymek](https://medium.com/@rzymek)
-* ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) Speaker: [meet.js 2024](https://www.youtube.com/watch?v=AVLFjV8vUZk), [devjs meetup (PL)](https://www.facebook.com/devjspoland/videos/466201850539490/), [slides](https://slides.com/rzymek)
-* ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) LinkedIn: [posts](https://www.linkedin.com/in/krzysztof-rzymkowski/detail/recent-activity/shares/), [profile](https://www.linkedin.com/in/krzysztof-rzymkowski/), [employment history](https://www.linkedin.com/in/krzysztof-rzymkowski/#experience-section)
-
+* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)  
+* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
+* ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 
 ## Technology Enthusiast
 I am a truly **passionate** and **versatile** engineer with 20 years of commercial experience. Revolving around **Web & Java** technologies mostly. Love to bite into the **difficult problems**.
@@ -30,10 +31,28 @@ Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, 
 
 ## Work experience 
 
-### Snowflake (2022 - now)
+### Snowflake (3.5 years)
 
-Senior Software Engineer. Tech Lead in Snowsight Data Engineer Experience domain.
-Typescript, React, Jest, RTL, Storybook, a bit of Go
+Proven ability to deliver high-quality features, improve product quality, and contribute to team efficiency. Strong problem-solving skills, proactive approach, and commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship. Demonstrated expertise in JavaScript, React, SQL, and various testing frameworks.
+Key Achievements:
+- Led the implementation and delivery of various UI features, including Notebook Multi File project & Git integration, Streamlit Git integration UI, and Single Task Graph Execution modal.
+- Improved product quality through thorough code reviews, identifying and fixing bugs, and enhancing test coverage (e.g., unified Storybook setup, Playwright e2e CUJs).
+
+- Contributed to infrastructure improvements by refactoring build processes, optimizing test speeds, and addressing import cycles in the codebase.
+
+- Actively participated in incident response, troubleshooting production issues, and providing timely support to team members.
+
+- Mentored junior engineers, onboarded new team members, and facilitated team retrospectives and planning sessions.
+
+- Presented at industry meetups (WarsawJS), promoting the company and attracting recruitment leads.
+
+- Proactively identified and addressed potential security vulnerabilities and contributed to security reviews.
+
+- Demonstrated strong collaboration skills by working effectively with cross-functional teams, including Product, Design, and other engineering teams.
+
+- Showed flexibility and adaptability by switching teams and focusing on different areas based on project needs (e.g., Applica integration, SnowGIT UI, Notebooks).
+
+- Organized team-building events and contributed to a positive team culture.
 
 ### Pragmatists (3 years)
 
