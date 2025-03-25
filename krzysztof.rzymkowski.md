@@ -20,14 +20,7 @@ I am a truly **passionate** and **versatile** engineer with 20 years of commerci
 
 Focused on writing **clean, readable and testable code**. I always ask myself whether the stuff I've just written will make sense to someone a year from now. 
 
-Sharing knowledge comes truly natural. I've **hosted over 30** internal **workshops** covering topics like: **Docker, Java, React, Redux, Firebase, Typescript, webpack, software engineering, git, bash**, etc.
-
-## Skills
-I've been using **Java since version 1.1** (before Swing & Collections). I've started with **JEE** just when EJB3 and JPA came out, with all those cosy annotations replacing the XML hell of J2EE 1.4.  
-Thanks to an alternative JVM languages I've became familiar with **functional programming** well before the Java 8 release.  
-I do know the importance of **clean code** - I've been **maintaining** and expanding my commercial side project for **10 years** now. 
-Deep understaning of **Docker** - hosted several workshop. Familiar with Azure, AWS and Google **cloud** providers.
-
+Sharing knowledge comes truly natural. I was a speaker at 2 WarsawJS meetups [[1]](https://www.youtube.com/watch?v=HawMf7QpeCs) [[2]](https://www.youtube.com/watch?v=AVLFjV8vUZk) and I've  **hosted over 30** internal **workshops** covering topics like: **Docker, Java, React, Redux, Firebase, Typescript, webpack, software engineering, git, bash**, etc. 
 
 ## Work experience 
 
