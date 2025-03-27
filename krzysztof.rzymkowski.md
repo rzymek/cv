@@ -26,7 +26,7 @@ Sharing knowledge comes truly natural. I was a speaker at 2 WarsawJS meetups [[1
 
 ### Snowflake (3.5 years)
 
-Proven ability to deliver high-quality features, improve product quality, and contribute to team efficiency. Strong problem-solving skills, proactive approach, and commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship. Demonstrated expertise in JavaScript, React, SQL, and various testing frameworks.
+Proven ability to deliver high-quality features, improve product quality, and contribute to team efficiency. Strong problem-solving skills, proactive approach, and commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship. Demonstrated expertise in Typescript, React, SQL, and various testing frameworks.
 Key Achievements:
 - Led the implementation and delivery of various UI features, including Notebook Multi File project & Git integration, Streamlit Git integration UI, and Single Task Graph Execution modal.
 - Improved product quality through thorough code reviews, identifying and fixing bugs, and enhancing test coverage (e.g., unified Storybook setup, Playwright e2e CUJs).
