@@ -15,13 +15,15 @@
 * ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 
-## Technology Enthusiast
-I am a truly **passionate** and **versatile** engineer with 20 years of commercial experience. Primarily focused on modern Web Development and Java ecosystems. Love to bite into the **difficult problems**.
+## Highly Accomplished Technology Leader & Problem Solver
 
-Focused on writing **clean, readable and testable code**. I always ask myself whether the stuff I've just written will make sense to someone a year from now.
+A **highly accomplished technology leader** with 20 years of commercial experience, recognized for **exceptional technical depth and breadth**, and a consistent track record of delivering impactful solutions to complex challenges. My primary focus lies in modern Web Development and Java ecosystems, where I leverage a strong foundation to drive innovation and build high-quality, reliable products.
 
-Passionate about knowledge sharing, I actively contribute to the tech community both internally and externally. I've designed and hosted over 30 internal workshops covering a wide range of technologies, including Docker, Java, React, Redux, Firebase, Typescript, webpack, software engineering, git, and bash. Furthermore, I've shared my expertise publicly as a speaker at two WarsawJS meetups [[1]](https://www.youtube.com/watch?v=HawMf7QpeCs) [[2]](https://www.youtube.com/watch?v=AVLFjV8vUZk).
+As [highlighted by colleagues at Snowflake](https://www.linkedin.com/in/krzysztof-rzymkowski/details/recommendations/?detailScreenTabIndex=0), I possess a **rare combination of exceptional technical skills, product focus, and exemplary soft skills**, enabling me to effectively navigate complex projects, collaborate across diverse teams, and reduce ambiguity into straightforward, high-quality outcomes. I am passionate about **proactively driving initiatives, leading in undefined environments, and empowering teams** through mentorship and knowledge sharing.
 
+My commitment to writing **clean, readable, and testable code** is unwavering, always considering the long-term maintainability and understanding of the solutions I build. I am a **go-to person for complex technical topics**, known for explaining intricate concepts clearly and providing practical solutions, as well as for **raising the technical bar** through thoughtful code reviews and constructive feedback.
+
+Passionate about fostering a strong engineering community, I actively contribute both internally by **designing and hosting over 30 workshops** on key technologies, and externally as a speaker at **WarsawJS meetups**. My experience demonstrates a consistent ability to not only solve difficult technical problems but also to **guide, inspire, and mentor** those around me, making me a valuable asset to any team seeking a senior technical leader.
 ## Work experience
 
 ### Snowflake (3.5 years)
