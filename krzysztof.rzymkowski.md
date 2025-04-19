@@ -54,8 +54,7 @@ Served as **tech lead** on the web segment of a strategic data warehouse solutio
 ### Euler Hermes (9 years)
 Responsible for the design and implementation of web and integration applications on **JBoss**, **IBM WebSphere**, and **Wildfly** application servers, including the client-facing insurance portal and an internal international contract management system. Developed **JMS and webservices integration** solutions. Introduced and maintained **Jenkins**-based **DevOps** for improved automation.
 
-*For further work history please take a look out my (LinkedIn profile)[https://www.linkedin.com/in/krzysztof-rzymkowski].*
-
+*For further work history please take a look out my [LinkedIn profile](ttps://www.linkedin.com/in/krzysztof-rzymkowski).*
 ## Education
 
 * **Master in Computer Science (mgr.inż.)**. [MINI](https://mini.pw.edu.pl/), [Politechnika Warszawska](http://www.pw.edu.pl/). 2005.
