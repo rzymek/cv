@@ -1,7 +1,7 @@
 # Krzysztof Rzymkowski
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)
-![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Mokotów/Sadyba)](http://goo.gl/maps/TQ5c6 )
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Ursynów)](https://maps.app.goo.gl/vXxwXoCr1XzKXCHz6)
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_page/v1/24px.svg) [CV](https://gist.github.com/rzymek/571d5a54fe5f40515488)
 
 ### Community activity
@@ -15,7 +15,7 @@
 * ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 
-## Accomplished Technology Leader & Problem Solver
+## Highly Accomplished Technology Leader & Problem Solver
 
 A **highly accomplished technology leader** with 20 years of commercial experience, recognized for **exceptional technical depth and breadth**, and a consistent track record of delivering impactful solutions to complex challenges. My primary focus lies in modern Web Development and Java ecosystems, where I leverage a strong foundation to drive innovation and build high-quality, reliable products.
 
@@ -29,42 +29,31 @@ Committed to **raising the technical bar**, I actively mentor teammates, provide
 
 ### Snowflake (3.5 years)
 
-Proven ability to deliver high-quality features, improve product quality, and contribute to team efficiency. Strong problem-solving skills, proactive approach, and commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship. Demonstrated expertise in Typescript, React, SQL, and various testing frameworks.
+A key contributor to delivering high-quality features, improving product quality, and enhancing team efficiency. Demonstrated strong problem-solving skills, a proactive approach, and a commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship, with expertise in Typescript, React, SQL, and various testing frameworks.
 Key Achievements:
-- Led the implementation and delivery of various UI features, including Notebook Multi File project & Git integration, Streamlit Git integration UI, and Single Task Graph Execution modal.
-- Improved product quality through thorough code reviews, identifying and fixing bugs, and enhancing test coverage (e.g., unified Storybook setup, Playwright e2e CUJs).
-
-- Contributed to infrastructure improvements by refactoring build processes, optimizing test speeds, and addressing import cycles in the codebase.
-
-- Actively participated in incident response, troubleshooting production issues, and providing timely support to team members.
-
-- Mentored junior engineers, onboarded new team members, and facilitated team retrospectives and planning sessions.
-
-- Presented at industry meetups (WarsawJS), promoting the company and attracting recruitment leads.
-
-- Proactively identified and addressed potential security vulnerabilities and contributed to security reviews.
-
-- Demonstrated strong collaboration skills by working effectively with cross-functional teams, including Product, Design, and other engineering teams.
-
-- Showed flexibility and adaptability by switching teams and focusing on different areas based on project needs (e.g., Applica integration, SnowGIT UI, Notebooks).
-
-- Organized team-building events and contributed to a positive team culture.
+- Led the implementation and delivery of key UI features, including Notebook Multi File project & Git integration, Streamlit Git integration UI, and Single Task Graph Execution modal, enhancing user experience and productivity.
+- Significantly improved product quality through comprehensive code reviews, bug fixes, and enhanced test coverage (unified Storybook setup, Playwright e2e CUJs).
+- Contributed to infrastructure improvements by refactoring build processes, optimizing test speeds, and addressing import cycles.
+- Mentored junior engineers, onboarded new team members, and facilitated team collaboration through retrospectives and planning sessions.
+- Proactively identified and addressed potential security vulnerabilities and played a key role in incident response and troubleshooting production issues.
+- Collaborated effectively with Product, Design, and other engineering teams, demonstrating flexibility by adapting to different project needs (e.g., Document AI integration, SnowGIT UI, Notebooks).
+- Represented the company at industry meetups (WarsawJS) and contributed to a positive team culture through organized events.
 
 ### Pragmatists (3 years)
 
 An Extreme-Programming software house emphasizing Agile methodologies, pair-programming, Test-Driven Development (TDD), and Domain-Driven Design (DDD).
 
-1. Working with an **international** team on distributed systems process modeling (BPMN) and testing platform. **Kubernetes**, **Angular**, **Spring Boot**.
-2. Greenfield webapp using Spring Boot, **Mongo** Atlas, AWS EC2, Docker, React, Jest, **Cypress**.
-3. Fitness data visualization site. Developed both React UI and backend API using Nest.js and Node.js, and deployed the application on AWS Beanstalk & Cloudfront with Circle CI.
+- Collaborated within an **international** team on a distributed systems process modeling (BPMN) and testing platform. **Kubernetes**, **Angular**, and **Spring Boot**.
+- Developed a greenfield web application using **Spring Boot**, **Mongo** Atlas, AWS EC2, Docker, React, Jest, and **Cypress**.
+- Developed the React UI and backend API (Nest.js, Node.js) for a fitness data visualization site, deploying it on AWS Beanstalk & Cloudfront with Circle CI.
 
 ### Lingaro (3 years)
-Leader of company's **Web Competency**. Responsible for keeping the company up to date with current **good practices** related to web application development. Organizing and **hosting tech workshops**.
-Autonomously **architecting** and **developing web** and **mobile** applications in **Spring Boot**, **React** or **Angular 2**. Introduced **Docker** based **DevOps** with **Prometheus** monitoring for several projects.
-Lately **tech lead** on web segment of a **strategic** data warehouse solution running on Azure **Cloud** services.
+Led the company's **Web Competency**, driving adoption of current **good practices** in web application development and organizing tech workshops.
+Autonomously **architected** and **developed web** and **mobile** applications using **Spring Boot**, **React**, and **Angular 2**. Introduced **Docker**-based **DevOps** with **Prometheus** monitoring for several projects.
+Served as **tech lead** on the web segment of a strategic data warehouse solution running on Azure **Cloud** services.
 
 ### Euler Hermes (9 years)
-Responsible for the design and implementation of the **client-facing insurance portal**. Using JBoss, **IBM WebSphere** and **Wildfly** application servers. Worked on client facing **insurance portal**, contract management **internal international system**, used by teams across multiple countries. Worked on **JMS and webservices integration** product, ensuring seamless data exchange between various systems. Introduced and maintained **Jenkins** based **DevOps**, automating build and deployment pipelines..
+Responsible for the design and implementation of web and integration applications on **JBoss**, **IBM WebSphere**, and **Wildfly** application servers, including the client-facing insurance portal and an internal international contract management system. Developed **JMS and webservices integration** solutions. Introduced and maintained **Jenkins**-based **DevOps** for improved automation.
 
 ## Education
 
