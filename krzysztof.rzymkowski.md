@@ -1,7 +1,7 @@
 # Krzysztof Rzymkowski
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)
-![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) [Poland, Warsaw (Ursynów)](https://maps.app.goo.gl/vXxwXoCr1XzKXCHz6)
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) Warsaw, Poland
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_page/v1/24px.svg) [CV](https://gist.github.com/rzymek/571d5a54fe5f40515488)
 
 ### Community activity
@@ -15,7 +15,7 @@
 * ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 
-## Highly Accomplished Technology Leader & Problem Solver
+## Accomplished Technology Leader & Problem Solver
 
 A **highly accomplished technology leader** with 20 years of commercial experience, recognized for **exceptional technical depth and breadth**, and a consistent track record of delivering impactful solutions to complex challenges. My primary focus lies in modern Web Development and Java ecosystems, where I leverage a strong foundation to drive innovation and build high-quality, reliable products.
 
@@ -31,13 +31,12 @@ Committed to **raising the technical bar**, I actively mentor teammates, provide
 
 A key contributor to delivering high-quality features, improving product quality, and enhancing team efficiency. Demonstrated strong problem-solving skills, a proactive approach, and a commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship, with expertise in Typescript, React, SQL, and various testing frameworks.
 Key Achievements:
-- Led the implementation and delivery of key UI features, including Notebook Multi File project & Git integration, Streamlit Git integration UI, and Single Task Graph Execution modal, enhancing user experience and productivity.
-- Significantly improved product quality through comprehensive code reviews, bug fixes, and enhanced test coverage (unified Storybook setup, Playwright e2e CUJs).
-- Contributed to infrastructure improvements by refactoring build processes, optimizing test speeds, and addressing import cycles.
-- Mentored junior engineers, onboarded new team members, and facilitated team collaboration through retrospectives and planning sessions.
-- Proactively identified and addressed potential security vulnerabilities and played a key role in incident response and troubleshooting production issues.
-- Collaborated effectively with Product, Design, and other engineering teams, demonstrating flexibility by adapting to different project needs (e.g., Document AI integration, SnowGIT UI, Notebooks).
-- Represented the company at industry meetups (WarsawJS) and contributed to a positive team culture through organized events.
+- Led UI feature delivery (Notebook Multi File, Git integration, Streamlit Git UI, Single Task Graph Execution), enhancing user experience.
+- Improved product quality via code reviews, bug fixes, and enhanced test coverage (Storybook, Playwright e2e).
+- Enhanced infrastructure through build process refactoring, test speed optimization, and import cycle resolution.
+- Mentored engineers, onboarded team members, and facilitated team collaboration.
+- Collaborated cross-functionally, adapting to project needs (Document AI, SnowGIT, Notebooks, jdbc-driver).
+- Represented the company at WarsawJS meetups and contributed to team culture.
 
 ### Pragmatists (3 years)
 
@@ -55,13 +54,14 @@ Served as **tech lead** on the web segment of a strategic data warehouse solutio
 ### Euler Hermes (9 years)
 Responsible for the design and implementation of web and integration applications on **JBoss**, **IBM WebSphere**, and **Wildfly** application servers, including the client-facing insurance portal and an internal international contract management system. Developed **JMS and webservices integration** solutions. Introduced and maintained **Jenkins**-based **DevOps** for improved automation.
 
+*For further work history please take a look out my (LinkedIn profile)[https://www.linkedin.com/in/krzysztof-rzymkowski].*
+
 ## Education
 
 * **Master in Computer Science (mgr.inż.)**. [MINI](https://mini.pw.edu.pl/), [Politechnika Warszawska](http://www.pw.edu.pl/). 2005.
 * **English**: Fluent
 * **German**: Communicative
 * Polish: native
-
 
 >I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).
 
