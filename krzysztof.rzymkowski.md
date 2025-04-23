@@ -13,21 +13,9 @@
 * ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 
->*I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).*
-
->*Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszej ofercie pracy dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 roku o ochronie Danych Osobowych, Dz. U. Nr 133 Poz. 883)."*
-
 ## Accomplished Technology Leader & Problem Solver
 
-A **highly accomplished technology leader** with 20 years of commercial experience, recognized for **exceptional technical depth and breadth**, and a consistent track record of delivering impactful solutions to complex challenges. My primary focus lies in modern Web Development and Java ecosystems, where I leverage a strong foundation to drive innovation and build high-quality, reliable products.
-
-[Colleagues describe](https://www.linkedin.com/in/krzysztof-rzymkowski/details/recommendations/?detailScreenTabIndex=0) me as a **high-ownership engineer** with a **strong technical foundation** and a **deep commitment to building great products**. I excel at taking ambiguous requirements and transforming them into **high-quality, reliable solutions**, consistently delivering features that drive customer adoption and contribute to business growth. My ability to **navigate multiple teams**, **reduce high complexity problems**, and **proactively drive initiatives** ensures successful project outcomes, even in undefined environments.
-
-Beyond individual contributions, I am a **steady and thoughtful presence** within teams, known for my collaborative approach across geographies and functions. I prioritize clear communication, ensuring specifications are well-understood and requirements are met. I am also a **go-to person for complex technical topics**, providing clear explanations and practical solutions on everything from code architecture and testing practices to debugging production incidents.
-
-Committed to **raising the technical bar**, I actively mentor teammates, provide constructive feedback, and promote a culture of continuous improvement. I am passionate about sharing knowledge, both internally through **designing and hosting over 30 workshops** on key technologies, and externally as a speaker at **WarsawJS meetups**. My experience demonstrates a proven ability to combine deep technical expertise with strong leadership and communication skills, making me a valuable asset for any organization seeking a principal-level engineer.
-
-<div style="page-break-after: always;"></div>
+A highly accomplished technology leader with 20 years of experience delivering impactful solutions in modern Web Development and Java ecosystems. Known for exceptional technical depth, a proactive approach, and a track record of transforming complex challenges into high-quality, reliable products. Proven ability to lead initiatives, mentor teams, and drive technical excellence. See endorsements from managers, product owners and peers on [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/details/recommendations/?detailScreenTabIndex=0).
 
 ## Work experience
 
@@ -68,3 +56,7 @@ Responsible for the design and implementation of web and integration application
 * **English**: Fluent
 * **German**: Communicative
 * Polish: native
+
+>*I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).*
+
+>*Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszej ofercie pracy dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 roku o ochronie Danych Osobowych, Dz. U. Nr 133 Poz. 883)."*
