@@ -8,10 +8,12 @@
 <!--Icons from https://iconmonstr.com/ -->
 
 * ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) WarsawJS speaker
-* ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/), [medium.com/@rzymek](https://medium.com/@rzymek)
-* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)
-* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
+    * [The Art of Text Parsing](https://www.youtube.com/watch?v=HawMf7QpeCs)
+    * [Anatomy of a Good Test](https://www.youtube.com/watch?v=AVLFjV8vUZk)
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
+* ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)
+* ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/), [medium.com/@rzymek](https://medium.com/@rzymek)
+* ![](https://rzymek.github.io/cv/iconmonstr-stackoverflow-3.svg) StackOverflow: [profile (9K reputation)](https://stackoverflow.com/users/211205/rzymek), [StackExchange](https://stackexchange.com/users/73316/rzymek?tab=accounts)
 
 ## Accomplished Technology Leader & Problem Solver
 
@@ -57,6 +59,8 @@ Responsible for the design and implementation of web and integration application
 * **German**: Communicative
 * Polish: native
 
->*I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).*
+<div style="margin-top: 1cm"></div>
 
->*Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszej ofercie pracy dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 roku o ochronie Danych Osobowych, Dz. U. Nr 133 Poz. 883)."*
+*I hereby give consent for my personal data included in the job offer to be processed for the purposes of recruitment under the Data Protection Act 1997 (Dz. U. no. 133, item 883).*
+
+*Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w niniejszej ofercie pracy dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29 sierpnia 1997 roku o ochronie Danych Osobowych, Dz. U. Nr 133 Poz. 883)."*
