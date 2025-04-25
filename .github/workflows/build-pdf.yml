@@ -2,6 +2,9 @@ name: Build PDF
 
 on: push
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,14 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: make setup
-
-      - name: Build PDF
-        run: make krzysztof.rzymkowski.pdf
+#      - name: Install dependencies
+#        run: make setup
+#
+#      - name: Build PDF
+#        run: make krzysztof.rzymkowski.pdf
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          files: krzysztof.rzymkowski.pdf
+          files: krzysztof.rzymkowski.md
           tag_name: v${{ github.run_number }}
