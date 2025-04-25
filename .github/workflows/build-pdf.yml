@@ -12,14 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-#      - name: Install dependencies
-#        run: make setup
-#
-#      - name: Build PDF
-#        run: make krzysztof.rzymkowski.pdf
+      - name: Install dependencies
+        run: make setup
+
+      - name: Build PDF
+        run: make krzysztof.rzymkowski.pdf
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          files: krzysztof.rzymkowski.md
+          files: krzysztof.rzymkowski.pdf
           tag_name: v${{ github.run_number }}
