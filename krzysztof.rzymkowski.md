@@ -17,21 +17,22 @@
 
 ## Accomplished Technology Leader & Problem Solver
 
-A highly accomplished technology leader with 20 years of experience delivering impactful solutions in modern Web Development and Java ecosystems. Known for exceptional technical depth, a proactive approach, and a track record of transforming complex challenges into high-quality, reliable products. Proven ability to lead initiatives, mentor teams, and drive technical excellence. See endorsements from managers, product owners and peers on [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/details/recommendations/?detailScreenTabIndex=0).
+Versatile **technology leader** with 20 years of experience delivering impactful solutions in modern **Web Development** and **Java** ecosystems. 
+Known for exceptional technical depth and a track record of transforming complex challenges into **high-quality, reliable** products. 
+Proven ability to lead initiatives, **mentor** teams, and drive technical excellence, often serving as the **go-to expert** for the most **difficult technical problems**. See endorsements from managers, product owners, and peers on [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/details/recommendations/?detailScreenTabIndex=0).
 
 ## Work experience
 
 ### Snowflake (3.5 years)
 
-A key contributor to delivering high-quality features, improving product quality, and enhancing team efficiency. Demonstrated strong problem-solving skills, a proactive approach, and a commitment to continuous improvement. Experienced in incident response, code reviews, and mentorship, with expertise in Typescript, React, SQL, and various testing frameworks.
-Key Achievements:
+Key contributor to delivering **high-quality** features, improving product quality, and enhancing team efficiency. Demonstrated strong problem-solving skills, a **proactive approach**, and a commitment to continuous improvement. Experienced in **code reviews, mentorship, recruitment**. Mastery in **Typescript**, **React**, **Snowflake SQL**, and various **testing frameworks**.  
 
-- Led UI feature delivery (Notebook Multi File, Git integration, Streamlit Git UI, Single Task Graph Execution), enhancing user experience.
-- Improved product quality via code reviews, bug fixes, and enhanced test coverage (Storybook, Playwright e2e).
+- Led several UI features (Notebook Multi File, Git integration, Streamlit Git UI, Single Task Graph Execution)
+- Improved product quality via **code reviews**, bug fixes, and enhanced test coverage (**Storybook**, **Playwright** e2e).
 - Enhanced infrastructure through build process refactoring, test speed optimization, and import cycle resolution.
-- Mentored engineers, onboarded team members, and facilitated team collaboration.
-- Collaborated cross-functionally, adapting to project needs (Document AI, SnowGIT, Notebooks, jdbc-driver).
-- Represented the company at WarsawJS meetups and contributed to team culture.
+- **Mentored** engineers, onboarded team members, and facilitated team collaboration.
+- Collaborated **cross-functionally**, adapting to project needs (Document AI, SnowGIT, Notebooks, jdbc-driver).
+- Represented the company at **WarsawJS** meetups and contributed to team culture.
 
 ### Pragmatists (3 years)
 
