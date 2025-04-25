@@ -17,8 +17,14 @@ jobs:
       - name: Build PDF
         run: make krzysztof.rzymkowski.pdf
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v3
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
         with:
-          name: generated-pdf
-          path: krzysztof.rzymkowski.pdf
+          files: krzysztof.rzymkowski.pdf
+          name: CV Update ${{ github.sha }}
+          tag_name: v${{ github.run_number }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
