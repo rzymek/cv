@@ -1,0 +1,24 @@
+name: Build PDF
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: make setup
+
+      - name: Build PDF
+        run: make krzysztof.rzymkowski.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: generated-pdf
+          path: krzysztof.rzymkowski.pdf
