@@ -1,8 +1,6 @@
 name: Build PDF
 
-on:
-  push:
-    branches: [ main ]
+on: push
 
 jobs:
   build:
@@ -18,13 +16,6 @@ jobs:
         run: make krzysztof.rzymkowski.pdf
 
       - name: Create Release
-        id: create_release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: krzysztof.rzymkowski.pdf
-          name: CV Update ${{ github.sha }}
-          tag_name: v${{ github.run_number }}
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
