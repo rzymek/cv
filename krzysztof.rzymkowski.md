@@ -1,6 +1,8 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFIxWbddujnhg/profile-displayphoto-crop_800_800/B4DZnnRICcIcAI-/0/1760521650865?e=1790812800&v=beta&t=WJZKGD2ZPexyjEeGqNXbP6DjwXFkcFsNpjZ6ultDVQE" style="float:right; width:7cm; margin-left:1cm; border-radius:3mm">                                                                          
+
 # Krzysztof Rzymkowski
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)
-![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)
+![](https://fonts.gstatic.com/s/i/materialiconsoutlined/phone_android/v1/24px.svg) [+48 507 063 286](tel:+48507063286)  
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/map/v1/24px.svg) Warsaw, Poland
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/contact_page/v1/24px.svg) [CV](https://github.com/rzymek/cv/blob/main/krzysztof.rzymkowski.md)
 
@@ -27,7 +29,8 @@ Proven ability to lead initiatives, **mentor** teams, and drive technical excell
 
 Key contributor to delivering **high-quality** features, improving product quality, and enhancing team efficiency. Demonstrated strong problem-solving skills, a **proactive approach**, and a commitment to continuous improvement. Experienced in **code reviews, mentorship, recruitment**. Mastery in **Typescript**, **React**, **Snowflake SQL**, and various **testing frameworks**.  
 
-- Led several UI features (Notebook Multi File, Git integration, Streamlit Git UI, Single Task Graph Execution)
+- Led several critical UI features (Notebook Multi File, Git integration, Streamlit Git UI, Single Task Graph Execution)
+- Tech Lead of a 10-person team (4 senior, 3 junior, designer, PM, manager),
 - Improved product quality via **code reviews**, bug fixes, and enhanced test coverage (**Storybook**, **Playwright** e2e).
 - Enhanced infrastructure through build process refactoring, test speed optimization, and import cycle resolution.
 - **Mentored** engineers, onboarded team members, and facilitated team collaboration.
