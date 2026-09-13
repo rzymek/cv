@@ -12,6 +12,7 @@
 * ![](https://rzymek.github.io/cv/iconmonstr-video-camera-7.svg) WarsawJS speaker
     * [The Art of Text Parsing](https://www.youtube.com/watch?v=HawMf7QpeCs)
     * [Anatomy of a Good Test](https://www.youtube.com/watch?v=AVLFjV8vUZk)
+    * Using Text as UI
 * ![](https://rzymek.github.io/cv/iconmonstr-linkedin-3.svg) [LinkedIn](https://www.linkedin.com/in/krzysztof-rzymkowski/)
 * ![](https://rzymek.github.io/cv/iconmonstr-github-3.svg) GitHub: [contributions](https://github.com/search?q=is%3Apr+author%3Arzymek), [profile](https://github.com/rzymek)
 * ![](https://rzymek.github.io/cv/iconmonstr-blogger-3.svg) Blog: [rzymek.github.io](https://rzymek.github.io/), [medium.com/@rzymek](https://medium.com/@rzymek)
