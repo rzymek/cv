@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFIxWbddujnhg/profile-displayphoto-crop_800_800/B4DZnnRICcIcAI-/0/1760521650865?e=1790812800&v=beta&t=WJZKGD2ZPexyjEeGqNXbP6DjwXFkcFsNpjZ6ultDVQE" style="float:right; width:7cm; margin-left:1cm; border-radius:3mm">                                                                          
+<img src="https://avatars.githubusercontent.com/u/3514991?s=400&u=11bef8d13551ac3930f24aa753b541786d58da37&v=4" style="float:right; width:7cm; margin-left:1cm; border-radius:3mm">                                                                          
 
 # Krzysztof Rzymkowski
 ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/email/v1/24px.svg)  [krzysztof.rzymkowski@gmail.com](mailto:krzysztof.rzymkowski@gmail.com)
